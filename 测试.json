@@ -3,8 +3,8 @@
    "default":1,
    "data":[
   {
-    "key": "Ğ¡½ã½ã×ÊÔ´,
-    "name": "Ğ¡½ã½ã×ÊÔ´",
+    "key": "å°å§å§èµ„æº,
+    "name": "å°å§å§èµ„æº",
     "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
     "download": "",
     "jiexiUrl": "",
@@ -15,8 +15,8 @@
     "id": 1
   },
   {
-    "key": "¿áµãÌØÊâ",
-    "name": "¿áµãÌØÊâ",
+    "key": "é…·ç‚¹ç‰¹æ®Š",
+    "name": "é…·ç‚¹ç‰¹æ®Š",
     "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://ffzyplayer.com/?url=",
@@ -27,8 +27,8 @@
     "id": 2
   },
   {
-    "key": "Ğ¡ÊªÃÃ",
-    "name": "Ğ¡ÊªÃÃ",
+    "key": "å°æ¹¿å¦¹",
+    "name": "å°æ¹¿å¦¹",
     "api": "https://www.afasu.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
@@ -39,8 +39,8 @@
     "id": 3
   },
    {
-    "key": "ÒùË®»ú",
-    "name": "ÒùË®»ú",
+    "key": "æ·«æ°´æœº",
+    "name": "æ·«æ°´æœº",
     "api": "https://www.xrbsp.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
