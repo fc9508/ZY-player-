@@ -1,0 +1,52 @@
+{
+ "sites": {
+   "default":1,
+   "data":[
+  {
+    "key": "小姐姐资源,
+    "name": "小姐姐资源",
+    "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 1
+  },
+  {
+    "key": "酷点特殊",
+    "name": "酷点特殊",
+    "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://ffzyplayer.com/?url=",
+    "group": "18+",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 2
+  },
+  {
+    "key": "小湿妹",
+    "name": "小湿妹",
+    "api": "https://www.afasu.com/api/xml.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 3
+  },
+   {
+    "key": "淫水机",
+    "name": "淫水机",
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4
+  },
